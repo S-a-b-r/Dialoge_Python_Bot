@@ -1,5 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudioco
+*.txt
 
 ### VisualStudioCode ###
 .vscode/*
@@ -13,6 +14,4 @@
 # Ignore all local history of files
 .history
 .ionide
-.txt
-
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
